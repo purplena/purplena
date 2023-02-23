@@ -12,10 +12,10 @@ Starting from **September 2022**, I am studying programming on an everyday basis
 So far I have finished the following courses: 
 - **[HTML&CSS Tutorial and Projects Course 2022 (Flexbox&Grid)](https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/?referralCode=40C89DF13A25C5EC2CCF)** by [John Smilga](https://github.com/john-smilga) on [udemy.com](https://www.udemy.com/)
 - [**PHP For Beginners**](https://laracasts.com/series/php-for-beginners-2023-edition) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
-- **[The PHP Practitioner](https://laracasts.com/series/php-for-beginners)** by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
-- [**Git Me Some Version Control](https://laracasts.com/series/git-me-some-version-control)** by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
-- [**MySQL Database Design](https://laracasts.com/series/mysql-database-design)** by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
-- [**HTML and CSS Workshop/Tailwind](https://laracasts.com/series/html-and-css-workshop)** by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
+- [**The PHP Practitioner**](https://laracasts.com/series/php-for-beginners) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
+- [**Git Me Some Version Control**](https://laracasts.com/series/git-me-some-version-control) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
+- [**MySQL Database Design**](https://laracasts.com/series/mysql-database-design) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
+- [**HTML and CSS Workshop/Tailwind**](https://laracasts.com/series/html-and-css-workshop) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
 
 I think I found my two mentors. Jeffrey and John are extremely talented professors.
 
