@@ -24,8 +24,8 @@ I think I found my two mentors. Jeffrey and John are extremely talented professo
 
 Also I took some small courses on **SASS** and development with **Vite**. 
 
-I am currently learning [**Object-Oriented Programming**](https://laracasts.com/series/object-oriented-principles-in-php) with Jeffrey Way. The goal for the next months is to be familiar with Laravel framework with the help of Laracasts tutorials. 
-Later I would like to finish **JavaScript** tutorial. And the final destination is **React**. 
+Currently I enrolled for the program [**"Web and Mobile Development"**] in French school of Art&Design called [**IDEM**] (https://lidem.eu/). My training end in January 2024. 
+I also continue my personam training at home. I am concentrated on learning **JavaScript** and **React**. 
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/elena-khramova-4a800b84/).
 
