@@ -16,6 +16,9 @@ So far I have finished the following courses:
 - [**Git Me Some Version Control**](https://laracasts.com/series/git-me-some-version-control) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
 - [**MySQL Database Design**](https://laracasts.com/series/mysql-database-design) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
 - [**HTML and CSS Workshop/Tailwind**](https://laracasts.com/series/html-and-css-workshop) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
+- [**Object-Oriented Principles in PHP**](https://laracasts.com/series/object-oriented-principles-in-php) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
+- [**Laravel 8 from Scratch**](https://laracasts.com/series/laravel-8-from-scratch) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
+
 
 I think I found my two mentors. Jeffrey and John are extremely talented professors.
 
