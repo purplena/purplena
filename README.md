@@ -24,7 +24,7 @@ I think I found my two mentors. Jeffrey and John are extremely talented professo
 
 Also I took some small courses on **SASS** and development with **Vite**. 
 
-Currently I enrolled for the program **"Web and Mobile Development"** in French school of Art&Design called [**IDEM**](https://lidem.eu/). My training end in January 2024. 
+Currently I enrolled to the program **"Web and Mobile Development"** in French school of Art&Design called [**IDEM**](https://lidem.eu/). My training ends in January 2024. 
 I also continue my personam training at home. I am concentrated on learning **JavaScript** and **React**. 
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/elena-khramova-4a800b84/).
