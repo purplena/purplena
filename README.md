@@ -24,7 +24,7 @@ I think I found my two mentors. Jeffrey and John are extremely talented professo
 Also I took some small courses on **SASS** and development with **Vite** and **Webpack**. 
 
 Currently I enrolled to the program **"Web and Mobile Development"** in French school of Art&Design called [**IDEM**](https://lidem.eu/), April 2023 - January 2024. 
-I also continue my personam training at home. I am concentrated on learning **JavaScript** and **React**. 
+I also continue my personal training at home. As far as in my l'IDEM program, I have a tight schedule that is concetrated a lot on PHP and PHP Framework as Symfony, I am concentrated on my front-end skills namely **JavaScript** and **React**. 
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/elena-khramova-4a800b84/).
 
