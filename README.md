@@ -18,12 +18,13 @@ So far I have finished the following courses on-line:
 - [**HTML and CSS Workshop/Tailwind**](https://laracasts.com/series/html-and-css-workshop) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
 - [**Object-Oriented Principles in PHP**](https://laracasts.com/series/object-oriented-principles-in-php) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
 - [**Laravel 8 from Scratch**](https://laracasts.com/series/laravel-8-from-scratch) by [Jeffrey Way](https://github.com/JeffreyWay) on [laracasts.com](https://laracasts.com/)
+- [**Apprendre React**](https://laracasts.com/series/laravel-8-from-scratch) by [Grafikart](https://grafikart.fr/) on [grafikart.fr](https://grafikart.fr/formations/react)
 
 I think I found my two mentors. Jeffrey and John are extremely talented professors.
 
 Also I took some small courses on **SASS** and development with **Vite** and **Webpack**. 
 
-Currently I enrolled to the program **"Web and Mobile Development"** in French school of Art&Design called [**IDEM**](https://lidem.eu/), April 2023 - January 2024. 
+Currently I am enrolled to the program **"Web and Mobile Development"** in French school of Art&Design called [**IDEM**](https://lidem.eu/), April 2023 - January 2024. 
 I also continue my personal training at home. As far as in my l'IDEM program, I have a tight schedule that is concetrated a lot on PHP and PHP Framework as Symfony, I am concentrated on my front-end skills namely **JavaScript** and **React**. 
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/elena-khramova-4a800b84/).
