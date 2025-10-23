@@ -1,4 +1,5 @@
 
+<img src="https://media1.tenor.com/m/qGZ7viTKnZAAAAAC/pastel-divider.gif" width="100%"></br>
 # Hi there, I'm Lena
 My favorite color is purple. That's how **Purplena** appeared. </br>
 I'm a passionate **Developer** specializing in building responsive and user-friendly web&mobile applications. I love turning ideas into reality using modern technologies. What a time to be alive! </br>
@@ -6,24 +7,19 @@ I love working in international environments. I speak **English**, **French**�
 In my profile you can checkout the highlights of my personal work. </br>
 
 ## ⚙️Skills & Technologies
-**Frontend:** 
-- Figma
-- HTML/CSS/SASS, Tailwind, Bootstrap
-- Material UI, Tamagui UI
-- JavaScript, Typescript
-- React, React Native
-- Zustand, Tanstack, Formik, React Hook Form
+**Frontend:** </br></br>
+[![](https://skillicons.dev/icons?i=figma,html,css,tailwind,bootstrap,js,ts,react)](https://skillicons.dev)</br>
+Component libraries: <strong>Material UI</strong>, <strong>Tamagui UI</strong></br>
+State manangement with <strong>Zustand</strong></br>
+Powerful data-fetching library: <strong>Tanstack Query</strong></br>
+Form validation: <strong>Formik</strong>, <strong>React Hook Form</strong></br>
+Making universal native apps with <strong>Expo</strong>
 
-**Backend:** 
-- PHP
-- Laravel
-- Symfony
-- PHPUnit
-- MySQL
+**Backend:**  </br></br>
+[![](https://skillicons.dev/icons?i=php,laravel,symfony,mysql)](https://skillicons.dev)
 
-**Tools & Platforms:** 
-- Git, GitHub Actions CI/CD
-- Docker
+**Tools & Platforms:** </br></br>
+[![](https://skillicons.dev/icons?i=git,github,githubactions,docker)](https://skillicons.dev)
 
 ## 🌱Currently Working On
 - Laravel certification
@@ -34,5 +30,7 @@ In my profile you can checkout the highlights of my personal work. </br>
 - **Check out my website:** [www.purplena.dev](http://www.purplena.dev)
 
 ## 💫Fun Fact
-- Big handmade enthusiast 🫶🏻
-- Big Harry Potter fan 🔮
+- Handmade enthusiast 🫶🏻
+- Harry Potter fan 🔮
+<p></p>
+<img src="https://media1.tenor.com/m/qGZ7viTKnZAAAAAC/pastel-divider.gif" width="100%"></br>
